@@ -27,6 +27,10 @@ https://en.wikipedia.org/wiki/Amazon.com_controversies
 
 ## Markdown Formatting
 
+http://stackoverflow.com/editing-help
+
+### Quick Reference
+
 \*italics\* *italics*
 
 \*\*bold\*\*  **bold**
