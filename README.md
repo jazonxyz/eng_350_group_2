@@ -1,6 +1,6 @@
 # ENG 350 Group Project
 
-## Company: Amazon
+## Company--Amazon
 
 ### Anti-Competitive Pratices
 
