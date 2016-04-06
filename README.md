@@ -2,7 +2,22 @@
 
 ## Company: Amazon
 
-### Anti-Competitive Pratices and Content Management
+### Anti-Competitive Pratices
+
+* One-Click pattent
+* Site in Canada
+* Direct Selling (UK Issue)
+* Japan (Tax Avoidance)
+* Differential Pricing
+* Collection of State Tax
+
+###Content Management
+
+* Content Availability
+* Kindle Content Removal
+* Controversial Items Sold
+* Reviews
+* Marketplace
 
 # References:
 
@@ -19,8 +34,11 @@ https://en.wikipedia.org/wiki/Amazon.com_controversies
 \[reddit!\]\(https://reddit.com\) reddit!
 
 \* item 1
+
 \* item 2
+
 \* item 3  
+
 
 * item 1
 * item 2
