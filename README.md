@@ -1,4 +1,4 @@
-# ENG 350 Group Project
+﻿# ENG 350 Group Project
 
 ## Company--Amazon
 
@@ -25,7 +25,7 @@
 
 * Differential Pricing
 > In September 2000, price discrimination potentially violating the Robinson–Patman Act was found on amazon.com. Amazon offered to sell a buyer a DVD for one price, but after the buyer deleted cookies that identified him as a regular Amazon customer, he was offered the same DVD for a substantially lower price.[24] Jeffrey P. Bezos subsequently apologized for the differential pricing and vowed that Amazon "never will test prices based on customer demographics". The company said the difference was the result of a random price test and offered to refund customers who paid the higher prices.[25] Amazon had also experimented with random price tests in 2000 as customers comparing prices on a "bargain-hunter" website discovered that Amazon was randomly offering the Diamond Rio MP3 player for substantially less than its regular price.[26]
-* Collection of State Tax
+* Collection of State Tax (Kenneth)
 > Amazon has been criticized for its refusal to collect sales taxes from customers in states in which it does not have a physical presence, thus giving it a comparative advantage over brick-and-mortar retailers. Hypothetically, some such customers should pay the equivalent amount in use tax directly to their state; however, few customers do so.
 
 	* http://www.denverpost.com/business/ci_29552504/colorados-amazon-tax-law-upheld-federal-appeals-court
