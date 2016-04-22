@@ -42,17 +42,17 @@ In September 2009 it emerged that Amazon was selling MP3 music downloads falsely
 Author Selena Kitt fell victim to Amazon content removal in December 2010; some of her fiction had described incest. Amazon claimed "Due to a technical issue, for a short window of time three books were temporarily unavailable for re-download by customers who had previously purchased them. When this was brought to our attention, we fixed the problem..." in an attempt to defuse user complaints about the deletions.[44]
 Late in 2013, online blog The Kernel released multiple articles revealing "an epidemic of filth" on Amazon and other ebook storefronts. Amazon responded by blocking books dealing with incest, bestiality, child pornography as well as topics such as virginity, monsters, and barely-legal.[45][46]
 
-## Kindle Overview
+### Kindle Overview
   * Amazon kindle is a tablet that is dedicated to Amazon's e-reader store, which means that you can only use it to view media that you purchased from the Kindle Store
     * Platforms: iOS, Android, Windows have a software version available if you don't want to buy a kindle tablet
   * 4 million books currently in the store
   * almost 50% ebooks sales in the US are from the Kindle Store
 
-##Kindle Content
-###Borrowing Content
+###Kindle Content
+######Borrowing Content
 * If you're an Amazon Prime member, you can borrow any book in the owner's Kindle library for up to 14 days
- * If you made any notes or comments in the content, it will be saved even after your rental period is over.
- * Kindle content can be rented if you don't want to buy it. Public libraries may have books that you can rent for free or rent valued
+* If you made any notes or comments in the content, it will be saved even after your rental period is over.
+* Kindle content can be rented if you don't want to buy it. Public libraries may have books that you can rent for free or rent valued
 
 see [Amazon](http://www.amazon.com/gp/help/customer/display.html?nodeId=201252760)
 
