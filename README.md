@@ -29,18 +29,37 @@
 > Amazon has been criticized for its refusal to collect sales taxes from customers in states in which it does not have a physical presence, thus giving it a comparative advantage over brick-and-mortar retailers. Hypothetically, some such customers should pay the equivalent amount in use tax directly to their state; however, few customers do so.
 
 	* http://www.denverpost.com/business/ci_29552504/colorados-amazon-tax-law-upheld-federal-appeals-court
-	
+
 ###Content Management
 
-* Content Availability (Joel) 
+* Content Availability (Joel)
 > Amazon at one time carried two cockfighting magazines and two dog fighting videos although the Humane Society of the United States (HSUS) contends that the sale of these materials is a violation of U.S. Federal law and filed a lawsuit against Amazon.[32] A campaign to boycott Amazon in August 2007 gained attention after a dog fighting case involving NFL quarterback Michael Vick.[33] In May 2008, Marburger Publishing agreed to settle with the Humane Society by requesting that Amazon stop selling their magazine, The Game Cock. The second magazine named in the lawsuit, The Feathered Warrior, remained available.[34]
 In April 2009 it was publicized that some erotic, lesbian, gay, bisexual, transgender, feminist and politically liberal books were being excluded from Amazon's sales rankings.[35] Various books and media were flagged as "Adult content," including children's books, self-help books, non-fiction, and non-explicit fiction. As a result, works by established authors E. M. Forster, Gore Vidal, Jeanette Winterson and D. H. Lawrence were unranked.[36] The change first received publicity on the blog of author Mark R. Probst, who reproduced an e-mail from Amazon describing a policy of de-ranking "adult" material.[35][36] However, Amazon later said that there was no policy of de-ranking lesbian, gay, bisexual, and transgender material and blamed the change first on a "glitch"[37] and then on "an embarrassing and ham-fisted cataloging error" that had affected 57,310 books.[38]
 In September 2009 it emerged that Amazon was selling MP3 music downloads falsely suggesting a well-known Premier League football manager was a child sex offender. Despite a campaign urging the retailer to withdraw the item, they refused to do so, citing freedom of speech.[39] The company eventually decided to withdraw the item from their UK website when legal action was threatened.[40] However, they continued to sell the item on their American, German and French websites.
-* Kindle Content Removal
+
+* Kindle Content Removal (Narith)
 > In July 2009, The New York Times reported that amazon.com deleted all customer copies of certain books published in violation of US copyright laws by MobileReference,[43] including the books Nineteen Eighty-Four and Animal Farm from users' Kindles. This action was taken with neither prior notification nor specific permission of individual users. Customers did receive a refund of the purchase price and, later, an offer of an Amazon gift certificate or a check for $30. The ebooks were initially published by MobileReference on Mobipocket for sale in Australia only—owing to those works having fallen into public domain in Australia. However, when the ebooks were automatically uploaded to Amazon by MobiPocket, the territorial restriction was not honored, and the book was allowed to be sold in territories such as the United States where the copyright term had not expired.
 Author Selena Kitt fell victim to Amazon content removal in December 2010; some of her fiction had described incest. Amazon claimed "Due to a technical issue, for a short window of time three books were temporarily unavailable for re-download by customers who had previously purchased them. When this was brought to our attention, we fixed the problem..." in an attempt to defuse user complaints about the deletions.[44]
 Late in 2013, online blog The Kernel released multiple articles revealing "an epidemic of filth" on Amazon and other ebook storefronts. Amazon responded by blocking books dealing with incest, bestiality, child pornography as well as topics such as virginity, monsters, and barely-legal.[45][46]
-	* Amazon now gives publishers the option to have their content under Digital Management Rights (DRM), which will allow them the freedom to choose how their contents will be maintained. The catch about this policy is that once the content has been published the setting cannot be changed. Some publishers are afraid of setting their contents DRM free because they don't want to have a Napster incident happening again. If the publisher has DRM on, the content will cannot be shared with other users legally. The user cannot even transfer their content to another device. Users are unhappy with this because they can do it with a physical book but not with an e-book. 
+
+## Kindle Overview
+  * Amazon kindle is a tablet that is dedicated to Amazon's e-reader store, which means that you can only use it to view media that you purchased from the Kindle Store
+    * Platforms: iOS, Android, Windows have a software version available if you don't want to buy a kindle tablet
+  * 4 million books currently in the store
+  * almost 50% ebooks sales in the US are from the Kindle Store
+
+##Kindle Content
+###Borrowing Content
+* If you're an Amazon Prime member, you can borrow any book in the owner's Kindle library for up to 14 days
+ * If you made any notes or comments in the content, it will be saved even after your rental period is over.
+ * Kindle content can be rented if you don't want to buy it. Public libraries may have books that you can rent for free or rent valued
+
+see [Amazon](http://www.amazon.com/gp/help/customer/display.html?nodeId=201252760)
+
+### Kindle restrictions
+* Amazon now gives publishers the option to have their content under Digital Management Rights (DRM), which will allow them the freedom to choose how their contents will be maintained. The catch about this policy is that once the content has been published the setting cannot be changed. Some publishers are afraid of setting their contents DRM free because they don't want to have a Napster incident happening again. If the publisher has DRM on, the content will cannot be shared with other users legally. The user cannot even transfer their content to another device. Users are unhappy with this because they can do it with a physical book but not with an e-book.
+
+
 * Controversial Items Sold
     * **Nazi T-shirts**[edit]
 An article published in the Czech weekly Tyden in January 2008 called attention to shirts sold by Amazon which were emblazoned with "I Love Heinrich Himmler" and "I Love Reinhard Heydrich," professing affection for the infamous Nazi officers and war criminals. Patricia Smith, a spokeswoman for Amazon, told Tyden, "Our catalog contains millions of items. With such a large number, unexpected merchandise may get onto the Web." Smith told Tyden that Amazon does not intend to stop cooperating with Direct Collection, the producer of the T-shirts. Following pressure from the World Jewish Congress, Amazon announced that it had removed from its website the aforementioned T-shirts as well as "I love Hitler" T-shirts that they were selling for women and children. After the WJC intervention, other items such as a Hitler Youth Knife emblazoned with the Nazi slogan "Blood and Honor" were also removed from Amazon.com as well as a 1933 German SS Officer Dagger distributed by Knife-Kingdom.[65]
@@ -87,6 +106,6 @@ http://stackoverflow.com/editing-help
 * item 2
 * item 3
 
-\> quoted text 
+\> quoted text
 
 > quoted text
