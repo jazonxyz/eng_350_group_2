@@ -1,4 +1,4 @@
-﻿# ENG 350 Group Project
+# ENG 350 Group Project
 
 ## Company--Amazon
 
@@ -18,7 +18,7 @@
 > Also in 2008, Amazon UK drew criticism in the British publishing community following their withdrawal from sale of key titles published by Hachette Livre UK. The withdrawal was possibly intended to put pressure on Hachette to provide levels of discount described by the trade as unreasonable. Curtis Brown's managing director Jonathan Lloyd opined that "publishers, authors and agents are 100% behind [Hachette]. Someone has to draw a line in the sand. Publishers have given 1% a year away to retailers, so where does it stop? Using authors as a financial football is disgraceful."[17][18]
 > In August 2013, Amazon agreed to end its price parity policy for marketplace sellers in the European Union, in response to investigations by the UK Office of Fair Trade and Germany's Federal Cartel Office .[19] It is not yet clear if this ruling applies to direct selling by publishers.
 
-* Japan (Tax Avoidance)
+* Japan (Tax Avoidance) (Jazon Yamamoto)
 > In Japan, Amazon's business activities are conducted by several subsidiary companies. The items sold by Amazon are formally sold by Amazon.com Int'l Sales, Inc., a company registered in the State of Washington, USA. Because of this, Amazon tried to avoid paying corporate tax (法人税 hōjinzei?), but in July 2009, the Tokyo National Tax Agency (東京国税局 Tōkyō Kokuzeikyoku?) ruled that Amazon still had to pay 14 billion yen ($119 million) in back taxes.[20]
 
 	* http://techcrunch.com/2009/07/06/amazon-ordered-to-pay-back-119-million-in-taxes-in-japan-more-tax-trouble-may-be-ahead/
