@@ -4,7 +4,7 @@
 
 ### Anti-Competitive Pratices
 
-* One-Click pattent
+* One-Click pattent (Abdul)
 > The company has been controversial for its alleged use of patents as a competitive hindrance. The "1-Click patent"[1] is perhaps the best-known example of this. Amazon's use of the one-click patent against competitor Barnes & Noble's website led the Free Software Foundation to announce a boycott of Amazon in December 1999.[2] The boycott was discontinued in September 2002.[3] On February 22, 2000, the company was granted a patent covering an Internet-based customer referral system, or what is commonly called an "affiliate program". Industry leaders Tim O'Reilly and Charlie Jackson spoke out against the patent,[4] and O'Reilly published an open letter[5] to Jeff Bezos, the CEO of Amazon, protesting the 1-click patent and the affiliate program patent, and petitioning him to "avoid any attempts to limit the further development of Internet commerce". O'Reilly collected 10,000 signatures[6] with this petition. Bezos responded with his own open letter.[7] The protest ended with O'Reilly and Bezos visiting Washington, D.C. to lobby for patent reform. On February 25, 2003, the company was granted a patent titled "Method and system for conducting a discussion relating to an item on Internet discussion boards".[8] On May 12, 2006, the USPTO ordered a re-examination of the "One-Click" patent, based on a request filed by actor Peter Calveley, who cited the prior art of an earlier e-commerce patent and the Digicash electronic cash system.[9]
 
     * http://rejoiner.com/resources/amazon-1clickpatent/
