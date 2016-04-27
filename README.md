@@ -1,5 +1,7 @@
 # ENG 350 Group Project
 
+[Slides URL](https://drive.google.com/folderview?id=0B-7DlL0-u-VLWUZYMWlYc3EtRjA&usp=sharing)
+
 ## Company--Amazon
 
 ### Anti-Competitive Pratices
