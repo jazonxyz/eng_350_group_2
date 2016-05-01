@@ -39,7 +39,7 @@
 * heat exhuastion is not an ecuse
 
 
-## Slide 3> Work Conditions/ OSHA
+## Slide 6> Work Conditions/ OSHA
 
 * in Pennsylvania temperatures reached 100+ degrees and employees collapsed
 * How does Amazon react?
